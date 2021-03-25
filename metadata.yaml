@@ -6,12 +6,17 @@ contributor:
     alias: Andrews, Will
     gutenberg_agent_id: '52685'
     url: http://www.gutenberg.org/2009/agents/52685
+covers:
+- cover_type: archival
+  image_path: 64586-h/images/cover.jpg
 creator:
   author:
     agent_name: Breck, John
     gutenberg_agent_id: '52684'
     url: http://www.gutenberg.org/2009/agents/52684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64586#The-Jay-Bird-Who-Went-Tame
 gutenberg_issued: '2021-02-17'
 gutenberg_type: Text
 identifiers:
